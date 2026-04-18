@@ -11,9 +11,6 @@ An interactive Excel dashboard analysing revenue, profit, and customer performan
 7. [Recommendation](#recommendation)
 8. [Conclusion](#conclusion)
 
----
-
-# **Business Introduction**
 # **Business Introduction**
 
 RetailNova is a retail business that sells products across multiple consumer goods categories, including Bakery, Beverages, Fresh Produce, Home Cleaning, Personal Care, Snacks, and Stationery. The company serves customers across different locations, including the USA, Mexico, Germany, France, and Canada.
