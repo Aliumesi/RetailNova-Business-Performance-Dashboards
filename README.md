@@ -60,7 +60,6 @@ The analysis covers RetailNova’s revenue, profit, transactions, products, cust
 ---
 
 # Revenue & Profit Performance Dashboard Analysis
-# Revenue & Profit Performance Dashboard Analysis
 
 <img src="Bike%20Gear%201.jpeg" alt="Revenue and Profit Dashboard" width="100%">
 
