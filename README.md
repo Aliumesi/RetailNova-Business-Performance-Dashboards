@@ -1,15 +1,19 @@
 # RetailNova Business Performance Dashboards
 An interactive Excel dashboard analysing revenue, profit, and customer performance for a multi-category retail business across five international markets, turning raw sales data into a clear executive summary.
-<ol>
-  <li><a href="#business-introduction">Business Introduction</a></li>
-  <li><a href="#problem-statement">Problem Statement</a></li>
-  <li><a href="#project-overview">Project Overview</a></li>
-  <li><a href="#revenue--profit-performance-dashboard-analysis">Revenue & Profit Performance Dashboard Analysis</a></li>
-  <li><a href="#product-performance-dashboard-analysis">Product Performance Dashboard Analysis</a></li>
-  <li><a href="#customer-performance-dashboard-analysis">Customer Performance Dashboard Analysis</a></li>
-  <li><a href="#recommendation">Recommendation</a></li>
-  <li><a href="#conclusion">Conclusion</a></li>
-</ol>
+# Table of Contents
+
+1. [Business Introduction](#business-introduction)
+2. [Problem Statement](#problem-statement)
+3. [Project Overview](#project-overview)
+4. [Revenue & Profit Performance Dashboard Analysis](#revenue--profit-performance-dashboard-analysis)
+5. [Product Performance Dashboard Analysis](#product-performance-dashboard-analysis)
+6. [Customer Performance Dashboard Analysis](#customer-performance-dashboard-analysis)
+7. [Recommendation](#recommendation)
+8. [Conclusion](#conclusion)
+
+---
+
+# **Business Introduction**
 # **Business Introduction**
 
 RetailNova is a retail business that sells products across multiple consumer goods categories, including Bakery, Beverages, Fresh Produce, Home Cleaning, Personal Care, Snacks, and Stationery. The company serves customers across different locations, including the USA, Mexico, Germany, France, and Canada.
