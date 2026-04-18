@@ -135,9 +135,7 @@ Senior customers generated the highest revenue, followed by Old Adult customers.
 
 # Product Performance Dashboard Analysis
 
-<!-- ADD YOUR SECOND DASHBOARD SCREENSHOT HERE -->
-<!-- Product Performance Dashboard -->
-![RetailNova Product Dashboard](images/product-dashboard.png)
+<img src="Bike%20Gear%202.jpeg" alt="Product Performance Dashboard" width="100%">
 
 The Product Performance Dashboard is the second dashboard in the project. It focuses on product category performance, product revenue, best-performing products, underperforming products, product count, and monthly units sold.
 
