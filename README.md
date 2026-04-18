@@ -60,9 +60,7 @@ The analysis covers RetailNova’s revenue, profit, transactions, products, cust
 
 # Revenue & Profit Performance Dashboard Analysis
 
-<!-- ADD YOUR FIRST DASHBOARD SCREENSHOT HERE -->
-<!-- Revenue & Profit Performance Dashboard -->
-![RetailNova Revenue & Prof
+
 
 The Revenue & Profit Performance Dashboard is the first dashboard in the project. It provides a high-level view of RetailNova’s overall financial performance by analyzing total revenue, total profit, profit margin, total transactions, monthly sales, monthly profit trends, product category contribution, location performance, and age group performance.
 
