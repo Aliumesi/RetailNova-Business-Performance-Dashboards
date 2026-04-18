@@ -198,9 +198,7 @@ The monthly units sold trend shows an increase toward the end of the year. Decem
 
 # Customer Performance Dashboard Analysis
 
-<!-- ADD YOUR THIRD DASHBOARD SCREENSHOT HERE -->
-<!-- Customer Performance Dashboard -->
-![RetailNova Customer Dashboard](images/customer-dashboard.png)
+<img src="Bike%20Gear%203.jpeg" alt="Customer Performance Dashboard" width="100%">
 
 The Customer Performance Dashboard is the third dashboard in the project. It analyzes customer spending behavior, top customers, customer volume by location, and revenue by age group.
 
